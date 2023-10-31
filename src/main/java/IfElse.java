@@ -59,4 +59,8 @@ public class IfElse {
             return value * 2;
         }
     }
+
+    public static int subtract(int valueA, int valueB) {
+        return valueA - valueB;
+    }
 }
