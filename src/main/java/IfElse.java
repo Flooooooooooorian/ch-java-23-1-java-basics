@@ -60,7 +60,7 @@ public class IfElse {
         }
     }
 
-    public static int subtract(int valueA, int valueB) {
+    public static int minus(int valueA, int valueB) {
         return valueA - valueB;
     }
 }
