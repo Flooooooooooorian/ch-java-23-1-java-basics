@@ -63,4 +63,8 @@ public class IfElse {
     public static int minus(int valueA, int valueB) {
         return valueA - valueB;
     }
+
+    public static void test() {
+        System.out.println("TEST");
+    }
 }
