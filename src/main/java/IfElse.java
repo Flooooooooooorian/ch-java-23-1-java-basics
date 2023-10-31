@@ -67,5 +67,6 @@ public class IfElse {
     public static void test() {
         System.out.println("TEST");
         System.out.println("ABC");
+        System.out.println("Komplex");
     }
 }
